@@ -68,8 +68,8 @@ public class assign1_sjf {
 
             int vmid = 0;//indentifer of VM
             int mips = 1000;//millions instructions per  second
-            long size = 10000;
-            int ram = 512;
+            long size = 10000;//mb
+            int ram = 512;//mb
             long bw = 1000;//bandwidth (Mbps)
             int pesNumber = 1;//cpu cores
             String vmm = "Xen"; //name of virtual machine
